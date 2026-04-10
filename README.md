@@ -12,4 +12,4 @@ Dataset is available on Kaggle:
 
  Note: Dataset is not uploaded due to GitHub file size limitations.
 
- Download and place the dataset in the `data/` folder before running the project.
+ 
